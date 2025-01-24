@@ -8,6 +8,9 @@
 <body>
     <h1>Hello word</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus inventore ducimus sunt adipisci tempora placeat?</p>
-    
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>    
 </body>
 </html>
